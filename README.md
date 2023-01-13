@@ -1,2 +1,4 @@
-# Hackerrank-Problem-Solving-C-
+# Hackerrank-Problem-Solving-CPP
 This repository has solutions to the problems in the Problem Solving module on Hackerrank in C++ language.
+
+Link to the module: https://www.hackerrank.com/domains/algorithms
