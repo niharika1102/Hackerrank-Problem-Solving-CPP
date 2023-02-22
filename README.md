@@ -5,27 +5,27 @@ Link to the module: https://www.hackerrank.com/domains/algorithms
 
 Below given is the index for the solution of each problem.
 
-| Problem Name  | Solution Link |
+| S. No.  | Solution Link |
 |---------------|---------------|
-|A Very Big Sum| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/A%20Very%20Big%20Sum.cpp)  |
-| Apples and Oranges| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Apple%20and%20Orange.cpp)  |
-| Between Two Sets| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Between%20Two%20Sets.cpp)|
-|Bill Division|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Bill%20Division.cpp)|
-|Birthday Cake Candles| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Birthday%20Cake%20Candles.cpp)|
-|Breaking the Records|[Soltuion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Breaking%20the%20Records.cpp)|
-|Compare the Triplets|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Compare%20the%20Triplets.cpp)|
-|Day of the Programmer|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Day%20of%20the%20Programmer.cpp)|
-|Diagonal Difference|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Diagonal%20Difference.cpp)|
-|Divisible Sum Pair|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Divisible%20Sum%20Pair.cpp)|
-|Drawing Book|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Drawing%20Book.cpp)|
-|Grading Students|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Grading%20Students.cpp)|
-|Migratory Birds|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Migratory%20Birds.cpp)|
-|Mini-Max Sum|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Mini-Max%20Sum.cpp)|
-|Number Line Jumps|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Number%20Line%20Jumps.cpp)|
-|Plus Minus|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
-|Sales By Match|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
-|Simple Array Sum|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
-|Solve Me First|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
-|Staircase|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
-|Subarray Division|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
-|Time Conversion|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
+|1.| [A Very Big Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/A%20Very%20Big%20Sum.cpp)  |
+|2.| [Apples and Oranges](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Apple%20and%20Orange.cpp)  |
+|3.| [Bewteen Two Sets](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Between%20Two%20Sets.cpp)|
+|4.|[Bill Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Bill%20Division.cpp)|
+|5.| [Birthday Cake Candles](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Birthday%20Cake%20Candles.cpp)|
+|6.|[Breaking the Records](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Breaking%20the%20Records.cpp)|
+|7.|[Compare the Triplets](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Compare%20the%20Triplets.cpp)|
+|8.|[Day of the Programmer](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Day%20of%20the%20Programmer.cpp)|
+|9.|[Diagonal Difference](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Diagonal%20Difference.cpp)|
+|10.|[Divisible Sum Pair](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Divisible%20Sum%20Pair.cpp)|
+|11.|[Drawing Book](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Drawing%20Book.cpp)|
+|12.|[Grading Students](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Grading%20Students.cpp)|
+|13.|[Migratory Birds](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Migratory%20Birds.cpp)|
+|14.|[Mini-Max Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Mini-Max%20Sum.cpp)|
+|15.|[Number Line Jumps](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Number%20Line%20Jumps.cpp)|
+|16.|[Plus Minus](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
+|17.|[Sales by Match](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
+|18.|[Simple Array Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
+|19.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
+|20.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
+|21.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
+|22.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
