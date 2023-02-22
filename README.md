@@ -5,7 +5,7 @@ Link to the module: https://www.hackerrank.com/domains/algorithms
 
 Below given is the index for the solution of each problem.
 
-| First Header  | Second Header |
+| Problem Name  | Solution Link |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| A Very Big Sum| [A Very Big Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/A%20Very%20Big%20Sum.cpp)  |
 | Content Cell  | Content Cell  |
