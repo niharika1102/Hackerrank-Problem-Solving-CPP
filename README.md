@@ -9,6 +9,7 @@ Below given is the index for the solution of each problem.
 |---------------|---------------|
 |A Very Big Sum| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/A%20Very%20Big%20Sum.cpp)  |
 | Apples and Oranges| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Apple%20and%20Orange.cpp)  |
-| Between Two Sets| [Solution] (https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Between%20Two%20Sets.cpp)|
-|Bill Division|[Solution] (https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Bill%20Division.cpp)|
-|Birthday Cake Candles| [Solution] (https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Birthday%20Cake%20Candles.cpp)|
+| Between Two Sets| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Between%20Two%20Sets.cpp)|
+|Bill Division|[Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Bill%20Division.cpp)|
+|Birthday Cake Candles| [Solution](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Birthday%20Cake%20Candles.cpp)|
+|Breaking the Records|[Soltuion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Breaking%20the%20Records.cpp)|
