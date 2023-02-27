@@ -26,10 +26,11 @@ Below given is the index for the solution of each problem.
 |17.|[Migratory Birds](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Migratory%20Birds.cpp)|
 |18.|[Mini-Max Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Mini-Max%20Sum.cpp)|
 |19.|[Number Line Jumps](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Number%20Line%20Jumps.cpp)|
-|20.|[Plus Minus](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
-|21.|[Sales by Match](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
-|22.|[Simple Array Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
-|23.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
-|24.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
-|25.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
-|26.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
+|20.|[Picking Numbers](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Picking%20Numbers.cpp)|
+|21.|[Plus Minus](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
+|22.|[Sales by Match](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
+|23.|[Simple Array Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
+|24.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
+|25.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
+|26.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
+|27.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
