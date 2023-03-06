@@ -34,4 +34,5 @@ Below given is the index for the solution of each problem.
 |25.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
 |26.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
 |27.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
-|28.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
+|28.|[The Hurdle Race](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/The%20Hurdle%20Race.cpp)|
+|29.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
