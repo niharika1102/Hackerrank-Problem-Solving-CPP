@@ -26,22 +26,23 @@ Below given is the index for the solution of each problem.
 |17.|[Divisible Sum Pair](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Divisible%20Sum%20Pair.cpp)|
 |18.|[Drawing Book](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Drawing%20Book.cpp)|
 |19.|[Electronics Shop](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Electronics%20Shop.cpp)|
-|20.|[Find Digits](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Find%20Digits.cpp)|
-|21.|[Forming a Magic Square](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Forming%20a%20Magic%20Square.cpp)|
-|22.|[Jumping on the Clouds - Revisited](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Jumping%20on%20the%20Clouds%20-%20Revisited.cpp)|
-|23.|[Grading Students](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Grading%20Students.cpp)|
-|24.|[Migratory Birds](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Migratory%20Birds.cpp)|
-|25.|[Mini-Max Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Mini-Max%20Sum.cpp)|
-|26.|[Number Line Jumps](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Number%20Line%20Jumps.cpp)|
-|27.|[Picking Numbers](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Picking%20Numbers.cpp)|
-|28.|[Plus Minus](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
-|29.|[Sales by Match](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
-|30.|[Save the Prisoner](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Save%20The%20Prisoner.cpp)|
-|31.|[Simple Array Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
-|32.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
-|33.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
-|34.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
-|35.|[The Hurdle Race](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/The%20Hurdle%20Race.cpp)|
-|36.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
-|37.|[Utopian Tree](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Utopian%20Tree.cpp)|
-|38.|[Viral Advertising](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Viral%20Advertising.cpp)|
+|20.|[Extra Long Factorials](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Extra%20Long%20Factorials.cpp)|
+|21.|[Find Digits](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Find%20Digits.cpp)|
+|22.|[Forming a Magic Square](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Forming%20a%20Magic%20Square.cpp)|
+|23.|[Jumping on the Clouds - Revisited](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Jumping%20on%20the%20Clouds%20-%20Revisited.cpp)|
+|24.|[Grading Students](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Grading%20Students.cpp)|
+|25.|[Migratory Birds](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Migratory%20Birds.cpp)|
+|26.|[Mini-Max Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Mini-Max%20Sum.cpp)|
+|27.|[Number Line Jumps](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Number%20Line%20Jumps.cpp)|
+|28.|[Picking Numbers](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Picking%20Numbers.cpp)|
+|29.|[Plus Minus](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
+|30.|[Sales by Match](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
+|31.|[Save the Prisoner](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Save%20The%20Prisoner.cpp)|
+|32.|[Simple Array Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
+|33.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
+|34.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
+|35.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
+|36.|[The Hurdle Race](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/The%20Hurdle%20Race.cpp)|
+|37.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
+|38.|[Utopian Tree](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Utopian%20Tree.cpp)|
+|39.|[Viral Advertising](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Viral%20Advertising.cpp)|
