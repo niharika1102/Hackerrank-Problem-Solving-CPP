@@ -35,18 +35,19 @@ Below given is the index for the solution of each problem.
 |26.|[Library Fine](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Library%20Fine.cpp)|
 |27.|[Migratory Birds](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Migratory%20Birds.cpp)|
 |28.|[Mini-Max Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Mini-Max%20Sum.cpp)|
-|29.|[Number Line Jumps](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Number%20Line%20Jumps.cpp)|
-|30.|[Picking Numbers](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Picking%20Numbers.cpp)|
-|31.|[Plus Minus](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
-|32.|[Sales by Match](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
-|33.|[Save the Prisoner](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Save%20The%20Prisoner.cpp)|
-|34.|[Sequence Equation](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sequence%20Equation.cpp)|
-|35.|[Sherlock and Squares](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sherlock%20and%20Squares.cpp)|
-|36.|[Simple Array Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
-|37.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
-|38.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
-|39.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
-|40.|[The Hurdle Race](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/The%20Hurdle%20Race.cpp)|
-|41.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
-|42.|[Utopian Tree](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Utopian%20Tree.cpp)|
-|43.|[Viral Advertising](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Viral%20Advertising.cpp)|
+|29.|[Non-Divisible Subsets](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Non-Divisible%20Subsets.cpp)|
+|30.|[Number Line Jumps](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Number%20Line%20Jumps.cpp)|
+|31.|[Picking Numbers](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Picking%20Numbers.cpp)|
+|32.|[Plus Minus](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Plus%20Minus.cpp)|
+|33.|[Sales by Match](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sales%20By%20Match.cpp)|
+|34.|[Save the Prisoner](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Save%20The%20Prisoner.cpp)|
+|35.|[Sequence Equation](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sequence%20Equation.cpp)|
+|36.|[Sherlock and Squares](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Sherlock%20and%20Squares.cpp)|
+|37.|[Simple Array Sum](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Simple%20Array%20Sum.cpp)|
+|38.|[Solve Me First](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Solve%20Me%20First.cpp)|
+|39.|[Staircase](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Staircase.cpp)|
+|40.|[Subarray Division](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Subarray%20Division.cpp)|
+|41.|[The Hurdle Race](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/The%20Hurdle%20Race.cpp)|
+|42.|[Time Conversion](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Time%20Conversion.cpp)|
+|43.|[Utopian Tree](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Utopian%20Tree.cpp)|
+|44.|[Viral Advertising](https://github.com/niharika1102/Hackerrank-Problem-Solving-CPP/blob/main/Viral%20Advertising.cpp)|
